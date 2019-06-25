@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [TrainingTestSuite]">
+  <test name="workingwithMdFw (failed)">
+    <classes>
+      <class name="com.Pom.TestCaseExecution">
+        <methods>
+          <include name="verifyTxttoSearch"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Pom.TestCaseExecution -->
+    </classes>
+  </test> <!-- workingwithMdFw (failed) -->
+</suite> <!-- Failed suite [TrainingTestSuite] -->

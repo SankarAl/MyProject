@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+                       <suite name="TrainingTestSuite" annotations= "JDK" thread-count="1">
+                        <!-- <test name="TestNG Annotations ">  
+  		<classes>    
+			 <class name="com.TestNg.TestNGAnnotationsEx" />			 
+ 		</classes>
+	    </test>  -->
+	      <!-- <test name="GoogleSearchApp ">  
+  		<classes>    
+			 <class name="com.TestNg.ClassWithMultipleMethods" />				 
+ 		</classes>
+	    </test>  -->
+	   <!--  <test name="AutoIT ">  
+  		<classes>    
+			 <class name="com.TestNg.AutoIt" />				 
+ 		</classes>
+	    </test>  -->
+	  <!--    <test name="WorkingWithJavascriptExecutor ">  
+  		<classes>    
+			 <class name="com.TestNg.UsingJE" />				 
+ 		</classes>
+	    </test>  -->
+<!-- 	       <test name="Validations ">  
+  		<classes>    
+			 <class name="com.TestNg.Validations" />				 
+ 		</classes>
+	    </test>  -->
+	    	      <!--  <test name="workingwithMdFw ">  
+  		<classes>    
+			 <class name="com.mdfw.TestCaseExecution" />				 
+ 		</classes>
+	    </test>  -->
+	     <test name="workingwithMdFw ">  
+  		<classes>    
+			 <class name="com.Pom.TestCaseExecution" />				 
+ 		</classes>
+	    </test> 
+	   </suite>
